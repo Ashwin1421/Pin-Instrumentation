@@ -24,7 +24,7 @@ The output for each lab task is produced in different files named
 * soln-3.out
 * soln-4.out
 * soln-5.out
-* 1soln-6.out
+* soln-6.out
 ## Author
 
 * **Ashwin Joshi** - [Ashwin1421](https://github.com/Ashwin1421)
